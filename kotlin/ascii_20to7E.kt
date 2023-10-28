@@ -59,7 +59,7 @@ val alphabet14dotMap = mapOf(
     'Y' to arrayOf(arrayOf(00,12,14),arrayOf(20,12)),
     'Z' to arrayOf(arrayOf(00,20,04,24)),
     '[' to arrayOf(arrayOf(10,00,04,14)),
-    '\' to arrayOf(arrayOf(00,24)),
+    '\\'to arrayOf(arrayOf(00,24)),
     ']' to arrayOf(arrayOf(10,20,24,14)),
     '^' to arrayOf(arrayOf(01,10,21)),
     '_' to arrayOf(arrayOf(04,24)),
