@@ -6,7 +6,7 @@ val alphabet14dotMap = mapOf(
     '$' to arrayOf(arrayOf(20,00,02,22,24,04),arrayOf(10,14)),
     '%' to arrayOf(arrayOf(00,10,11,01,00),arrayOf(20,04),arrayOf(13,23)),
     '&' to arrayOf(arrayOf(22,23,14,03,21,10,01,02,24)),
-    ''' to arrayOf(arrayOf(10,11)),
+    '\''to arrayOf(arrayOf(10,11)),
     '(' to arrayOf(arrayOf(10,01,02,03,14)),
     ')' to arrayOf(arrayOf(10,21,22,23,14)),
     '*' to arrayOf(arrayOf(00,22),arrayOf(20,02),arrayOf(01,21)),
