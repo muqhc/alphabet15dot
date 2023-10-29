@@ -65,7 +65,7 @@ val alphabet14dotMap = mapOf(
     '_' to arrayOf(arrayOf(04,24)),
     '`' to arrayOf(arrayOf(00,11)),
     'a' to arrayOf(arrayOf(02,22,24,04,03,23)),
-    'b' to arrayOf(arrayOf(00,04,24,22,02)),
+    'b' to arrayOf(arrayOf(00,04,14,23,12,02)),
     'c' to arrayOf(arrayOf(22,12,03,14,24)),
     'd' to arrayOf(arrayOf(20,24,14,03,12,22)),
     'e' to arrayOf(arrayOf(03,23,12,03,04,14)),
