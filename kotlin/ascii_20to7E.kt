@@ -1,4 +1,4 @@
-val alphabet14dotMap = mapOf(
+val alphabet15dotMap = mapOf(
     ' ' to arrayOf(),
     '!' to arrayOf(arrayOf(10,11,12),arrayOf(14)),
     '"' to arrayOf(arrayOf(00,01),arrayOf(10,11)),
